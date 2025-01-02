@@ -59,7 +59,7 @@ Kualifikasi Utama
 - Remote working.
 
 ### Cara Melamar
-Kirimkan CV dan portofolio Anda via DM atau ke Google Form sbb: https://forms.gle/VsCsMoShgrnPmnZb7 dengan subjek "Software Engineer - [Nama Anda]".
+Kirimkan CV dan portofolio Anda via DM atau ke Google Form sbb: https://forms.gle/VsCsMoShgrnPmnZb7 dengan subjek/File CV "Software Engineer - [Nama Anda]".
 
 #### Catatan: Hanya kandidat yang memenuhi kualifikasi yang akan dihubungi untuk tahapan selanjutnya.
 
